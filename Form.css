@@ -1,0 +1,17 @@
+.box{
+    background-color: rgb(160, 204, 255);
+    width: 600px;
+    height: 530px;
+    margin-top: 40px;
+    padding-top: 1px;
+    margin-left: 320px;
+}
+.row{
+    text-align: center;
+    font-size: 15px;
+}
+body{
+    background-image: url("https://mkl-sitecore102-prod-326360-cdn-endpoint.azureedge.net/~/media/project/markelcom/cards/landscape-buildings-skyscrapers.jpg?h=1333&iar=0&w=2000&rev=75c717dfeb194be09b2dcaed2fa1c549&hash=5E987380D9B0AEB214D8062DC5CFF3F7");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
